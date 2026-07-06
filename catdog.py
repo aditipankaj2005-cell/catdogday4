@@ -75,5 +75,3 @@ if uploaded_file is not None:
 
     st.write(f"🐱 Cat Probability: **{probability[0] * 100:.2f}%**")
     st.write(f"🐶 Dog Probability: **{probability[1] * 100:.2f}%**")
-
-lity: **{probability[1] * 100:.2f}%**")
